@@ -1,6 +1,6 @@
 For my Bachelor's thesis I did the project An introduction to Topological Data Analysis and its computational applications. It is a theoretical introduction and a review of multiple packages. The main document is TFG_Bernat (which means Bachelor's Thesis in spanish). the document "presentació" is the slides I used to expose the project. 
 
-##Abstract:
+## Abstract:
 
 Topological Data Analysis (TDA) is a new and promising field that uses advanced con-
 cepts in algebraic topology to extract topological and geometric information about
